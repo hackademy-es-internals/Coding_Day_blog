@@ -13,7 +13,6 @@
 
 .bi-list {
   font-size: 1.5rem;
-  color: white;
 }
 
 .head {
@@ -67,4 +66,24 @@
     bottom: -30px;
     opacity: 1;
   }
+}
+
+.rounded-author {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-image: url('./media/author.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box-author {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: #DCF8F1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
