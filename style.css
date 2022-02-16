@@ -23,7 +23,7 @@
 }
 
 .card:hover .btn-read {
-    bottom: -10px;
+    bottom: -25px;
     opacity: 1;
 }
 
